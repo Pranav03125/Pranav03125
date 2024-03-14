@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/5d/c3/cc/5dc3ccae47d20dedb229267b811ff239.gif)]
+[![MasterHead](https://i.pinimg.com/originals/c4/dd/3b/c4dd3b9ca074c97ade26dd0eaeef21f9.gif)]
 <h1 align="center">Hi 👋, I'm Pranav Karthikeyan S</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
