@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/a7/b0/15/a7b015d343ad801ad6da8c242dc6ae06.gif)]
+[![MasterHead](https://i.pinimg.com/originals/5d/c3/cc/5dc3ccae47d20dedb229267b811ff239.gif)]
 <h1 align="center">Hi 👋, I'm Pranav Karthikeyan S</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5d/c3/cc/5dc3ccae47d20dedb229267b811ff239.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav03125&label=Profile%20views&color=0e75b6&style=flat" alt="pranav03125" /> </p>
 
