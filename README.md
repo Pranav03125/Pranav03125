@@ -10,9 +10,9 @@
 
 <!-- Profile Views & Followers -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranav03125&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpranav03125&count_bg=%230E75B6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="profile views"/>
   <a href="https://github.com/pranav03125?tab=followers">
-    <img src="https://img.shields.io/github/followers/pranav03125?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
+    <img src="https://custom-icon-badges.demolab.com/github/followers/pranav03125?color=0e75b6&labelColor=555555&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers"/>
   </a>
 </div>
 
@@ -41,7 +41,7 @@ me.say_hi()
 ```javascript
 const skills = {
     frontend: ["HTML5", "CSS3", "JavaScript"],
-    connectivity=["Flask"],
+    connectivity: ["Flask"],
     backend: ["Python", "Java", "C++"],
     database: ["MySQL", "MS SQL Server"],
     tools: ["Linux", "Unity", "Git"],
@@ -79,18 +79,20 @@ const skills = {
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## ⚔️ GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranav03125&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D7FF&icon_color=00D7FF&text_color=FFFFFF" width="49%" alt="github stats"/>
-  <img src="https://streak-stats.demolab.com?user=pranav03125&theme=tokyonight&hide_border=true&background=0D1117&ring=00D7FF&fire=00D7FF&currStreakLabel=00D7FF" width="49%" alt="streak stats"/>
-</div>
+<p align="center">
+  <a href="https://github.com/pranav03125">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pranav03125&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav03125&theme=algolia"/>
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav03125&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D7FF&text_color=FFFFFF&layout=compact" alt="top langs" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pranav03125&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 ## 🏆 Achievement Unlocked
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranav03125&theme=onestar&no-frame=true&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pranav03125&theme=algolia&no-frame=true&column=7&margin-w=15" alt="trophies"/>
 </div>
 
 ---
