@@ -5,7 +5,7 @@
 
 <!-- Animated Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0C71F5&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Pranav+Karthikeyan+S;Full+Stack+Developer+intern+at+Infosys;Python+Enthusiast;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0C71F5&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Pranav+Karthikeyan+S;Full+Stack+Developer;Data+Analyst;Python+Enthusiast;Problem+Solver" />
 </h1>
 
 <!-- Profile Views & Followers -->
