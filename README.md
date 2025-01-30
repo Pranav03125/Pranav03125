@@ -5,7 +5,7 @@
 
 <!-- Animated Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0C71F5&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Pranav+Karthikeyan+S;Full+Stack+Developer;Python+Enthusiast;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0C71F5&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Pranav+Karthikeyan+S;Full+Stack+Developer+at+Infosys;Python+Enthusiast;Problem+Solver" />
 </h1>
 
 <!-- Profile Views & Followers -->
@@ -25,8 +25,8 @@
 class Developer:
     def __init__(self):
         self.name = "Pranav Karthikeyan S"
-        self.role = "Full Stack Developer"
-        self.language_spoken = ["hi_IN", "en_US"]
+        self.role = "Full Stack Developer at Infosys"
+        self.language_spoken = [hi_IN", "en_US"]
         self.code = ["Python", "Java", "C++", "JavaScript"]
         
     def say_hi(self):
@@ -41,6 +41,7 @@ me.say_hi()
 ```javascript
 const skills = {
     frontend: ["HTML5", "CSS3", "JavaScript"],
+    connectivity=["Flask"],
     backend: ["Python", "Java", "C++"],
     database: ["MySQL", "MS SQL Server"],
     tools: ["Linux", "Unity", "Git"],
@@ -78,10 +79,9 @@ const skills = {
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## ⚔️ GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav03125&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D7FF&icon_color=00D7FF&text_color=FFFFFF" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav03125&theme=dark&hide_border=true&background=0D1117&ring=00D7FF&fire=00D7FF&currStreakLabel=00D7FF" alt="streak stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranav03125&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D7FF&icon_color=00D7FF&text_color=FFFFFF" width="49%" alt="github stats"/>
+  <img src="https://streak-stats.demolab.com?user=pranav03125&theme=tokyonight&hide_border=true&background=0D1117&ring=00D7FF&fire=00D7FF&currStreakLabel=00D7FF" width="49%" alt="streak stats"/>
 </div>
 
 <div align="center">
