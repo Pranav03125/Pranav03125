@@ -26,7 +26,7 @@ class Developer:
     def __init__(self):
         self.name = "Pranav Karthikeyan S"
         self.role = "Full Stack Developer at Infosys"
-        self.language_spoken = [hi_IN", "en_US"]
+        self.language_spoken = ["hi_IN", "en_US"]
         self.code = ["Python", "Java", "C++", "JavaScript"]
         
     def say_hi(self):
